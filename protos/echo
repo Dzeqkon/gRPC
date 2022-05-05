@@ -1,6 +1,6 @@
 syntax="proto3";
 
-option go_package = "github.com/Dzeqkon/grpc-go-example/features/proto/echo";
+option go_package = "./protos;echo";
 
 package echo;
 
